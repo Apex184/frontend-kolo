@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="Apps">
       <p>Welcome to kolo bank</p>
+      <h1>We are now live on netlify</h1>
     </div>
   )
 }
